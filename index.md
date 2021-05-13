@@ -50,19 +50,19 @@ Prior to the photography exam for St. Amant High School's Advanced Placement Stu
 
 This series is a continuation of the experimental process I took to find a theme for Studio Art's photography exam. The link to this series can be found by clicking the thumbnail below.
 
-[![https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/rain%20photos%20thumbnail.PNG]](https://goo.gl/photos/R5hMmLmafovY3Zpw6)
+[![Alt Text](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/rain%20photos%20thumbnail.PNG)](https://goo.gl/photos/R5hMmLmafovY3Zpw6)
 
 *Orange*
 
 This series consists of various satsumas from a tree in my backyard. While most of the satsuma's remained fresh on the tree, a few had fallen to the ground and began to rot. It was here that I found the theme for my Studio Art photography exam. The link to this series can be found by clicking the thumbnail below.
 
-[![https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/orange%20photos%20thumbnail.PNG]](https://goo.gl/photos/o8uaqTQFur6j29RVA)
+[![Alt Text](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/orange%20photos%20thumbnail.PNG)](https://goo.gl/photos/o8uaqTQFur6j29RVA)
 
 *Rot (St. Amant High School Advanced Placement Studio Art Exam)*
 
 This extensive series attempts to demonstrate the artistic principles obtained from my time as an art student. I purchased fruit from a local market, and left them out to rot over a course of several days. The rotting provided various gross, yet interesting textures. Fruits like the pineapple, and the inside of a pumpkin demonstrated repition as well. The link to this series can be found by clicking the thumbnail below.
 
-[![https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/rot%20photos%20thumbnail.PNG]](https://goo.gl/photos/X9SbVDpYnY6DVxJ66)
+[![Alt Text](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/rot%20photos%20thumbnail.PNG)](https://goo.gl/photos/X9SbVDpYnY6DVxJ66)
 
 ## Physical Work
 
@@ -70,4 +70,4 @@ This extensive series attempts to demonstrate the artistic principles obtained f
 
 This gallery features physical artwork that was created during my two semesters as an art student at St. Amant High School prior to graduating and attending college. The link to this series can be found by clicking the thumbnail below.
 
-[![https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/st.%20amant%20art%20thumbnail.PNG]](https://goo.gl/photos/UL9tkj1vcSSvMaTo8)
+[![Alt Text](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/st.%20amant%20art%20thumbnail.PNG)](https://goo.gl/photos/UL9tkj1vcSSvMaTo8)
