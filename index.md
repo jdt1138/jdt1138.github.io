@@ -44,7 +44,7 @@ This game was originally made as the semester-long project for the Video Game De
 
 Prior to the photography exam for St. Amant High School's Advanced Placement Studio Art class, I was experimenting with various locales around my home to find a theme. While this theme was not chosen in the end, I feel they provide a nice backdrop to demonstrate the artistic principles learned in the class.
 
-[![Alt Text](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/home%20photos%20thumbail.PNG)](https://goo.gl/photos/EieAbDMQqZsfqXfX9)
+[![https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/main/home%20photos%20thumbail.PNG]](https://goo.gl/photos/EieAbDMQqZsfqXfX9)
 
 *Rain*
 
