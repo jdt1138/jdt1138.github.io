@@ -32,7 +32,7 @@ This game was originally made as the semester-long project for the Video Game De
 
 * [GitHub Repository](https://github.com/jodt88/CSC4263-ART4240)
 
-* [Direct Download for Windows](jdt1138.github.io/innkeeper_windows.zip)
+* [Direct Download for Windows](https://jdt1138.github.io/innkeeper_windows.zip)
 
 ---
 
