@@ -6,7 +6,7 @@ My name is Jody Toms. I recieved my Bachelor's Degree from LSU in May 2017, wher
 
 # Resume
 
-You can download my resume [here](https://github.com/jdt1138/jdt1138.github.io/raw/2af4da12930a6476ad06dd75657136d96bdafd42/JodyTomsResume.pdf).
+You can download my resume [here](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/2af4da12930a6476ad06dd75657136d96bdafd42/JodyTomsResume.pdf).
 
 ---
 
