@@ -20,7 +20,7 @@ This game was made as an assignment for the Video Game Design class given at LSU
 
 * [GitHub Repository](https://github.com/jodt88/FlynnBALL)
 
-* [Direct Download for Windows](jdt1138.github.io/flynnball_windows.zip)
+* [Direct Download for Windows](https://github.com/jdt1138/jdt1138.github.io/raw/main/flynnball_windows.zip)
 
 * [Download from GameJolt](https://gamejolt.com/games/flynnball/233085)
 
