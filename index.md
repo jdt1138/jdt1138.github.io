@@ -6,7 +6,7 @@ My name is Jody Toms, and I am a quality assurance software tester and analyst. 
 
 # Resume
 
-You can download my resume [here](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/2af4da12930a6476ad06dd75657136d96bdafd42/Jody Toms - Resume - 2024.pdf).
+You can download my resume [here](Jody Toms - Resume - 2024.pdf).
 
 ---
 
