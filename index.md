@@ -1,12 +1,12 @@
 # Bio
 
-My name is Jody Toms. I recieved my Bachelor's Degree from LSU in May 2017, where I majored in Computer Science and minored in History. The first two years of my college career were spent at Baton Rouge Community College, trying to determine my area of interest. I have completed their requirements for the Associate's Degree, and have recieved the degree in May 2017.
+My name is Jody Toms, and I am a quality assurance software tester and analyst. I have received both Associate's and Bachelor's degrees in Computer Science from Baton Rouge Community College and Louisiana State University, respectively. I have about five years of software testing experience, with my most recent position leading a team following Agile methodology to test defect fixes for the Louisiana LaMEDs system. Throughout my career I have gained an understanding of how to compose test cases and have experience with JIRA and Zephyr for defect and test case management. I am also experienced using the Microsoft Office and SharePoint suite of software for test management and team organization. I have a keen eye for detail that has served me well both inside and outside of my career.
 
 ---
 
 # Resume
 
-You can download my resume [here](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/2af4da12930a6476ad06dd75657136d96bdafd42/JodyTomsResume.pdf).
+You can download my resume [here](https://raw.githubusercontent.com/jdt1138/jdt1138.github.io/2af4da12930a6476ad06dd75657136d96bdafd42/Jody Toms - Resume - 2024.pdf).
 
 ---
 
