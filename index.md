@@ -6,7 +6,7 @@ My name is Jody Toms, and I am a quality assurance software tester and analyst. 
 
 # Resume
 
-You can download my resume [here](Jody Toms - Resume - 2024.pdf).
+You can download my resume [here](Jody Toms - Public Resume - 2024.pdf).
 
 ---
 
